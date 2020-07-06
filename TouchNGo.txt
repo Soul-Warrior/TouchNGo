@@ -2,9 +2,13 @@
 <html lang ="en">
 <head>
     <meta charset = "UTF-8">
-    <title>Pong Game Javascript</title>
+    <title>TouchNGo</title>
 </head>
 <body>
+
+<canvas id="Mainframe" width = "1200" height = "800"></canvas>
+
+<script src = "TouchNGo.js"></script>
 
 </body>
 </html>
